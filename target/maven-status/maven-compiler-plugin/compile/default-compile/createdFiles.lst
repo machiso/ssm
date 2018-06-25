@@ -1,0 +1,3 @@
+com\machi\model\User.class
+com\machi\service\IUserService.class
+com\machi\controller\UserController.class
