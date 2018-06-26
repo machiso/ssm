@@ -94,6 +94,23 @@
           </exclusion>
         </exclusions>
       </dependency>
+
+      <!-- https://mvnrepository.com/artifact/org.slf4j/jcl-over-slf4j -->
+      <!--改为slf4j -->
+      <dependency>
+        <groupId>org.slf4j</groupId>
+        <artifactId>jcl-over-slf4j</artifactId>
+        <version>1.7.25</version>
+      </dependency>
+
+      <!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-validator -->
+      <dependency>
+        <groupId>org.hibernate</groupId>
+        <artifactId>hibernate-validator</artifactId>
+        <version>5.4.1.Final</version>
+      </dependency>
+
+
       <dependency>
         <groupId>org.springframework</groupId>
         <artifactId>spring-beans</artifactId>
